@@ -1,4 +1,4 @@
-local transformer_model = "roberta-large";
+local transformer_model = "scibert-scivocab-uncased";
 local transformer_dim = 1024;
 local cls_is_last_token = false;
 
